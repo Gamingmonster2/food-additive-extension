@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "كاشف المواد المضافة",
+  "version": "1.0",
+  "description": "فحص سلامة المنتجات الغذائية عبر الباركود",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["camera"],
+  "icons": {
+    "128": "icon.png"
+  }
+}
